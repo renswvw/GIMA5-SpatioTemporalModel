@@ -13,7 +13,7 @@ Two objectives are pursued in this paper: first, to find out how effective the p
 ## Research Design
 Investigating the main objectives is done based on a simulated vegetation growth model of grazing. By extending the developed vegetation model with these predictors, and evaluating their potential to predict the transition, this paper shows the possibility to detect transformations before critical transitions. 
 
-# Research Findings
+## Research Findings
 The main findings of this study are that spatial variance, spatial skewness, discrete Fourier transform (DFT) and total patch count are effective at detecting the critical transitions under the conditions specified for this model. The average patch size predictor fails to detect the transition when the dispersion rate is small, and the simulation map is medium-to-large in size. One potential downside of early prediction using the discrete Fourier Transform is its computational requirements.
 
 
